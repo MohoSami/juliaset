@@ -189,7 +189,7 @@ public class DisplayWindow{
     this.iMax = this.center.getImaginary() + (1.5 * this.zoomFactor);
    }
 
-   /**
+   /** 
     * returns double to be used as an increment in for loop in JuliaSetGenerator
     * @method getStepSize
     * @return double step size
