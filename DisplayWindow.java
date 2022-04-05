@@ -5,7 +5,7 @@
  */
 public class DisplayWindow{
 
-  private double leftX;
+  private double leftX; //testing github on atom for now
   private double bottomY;
   private double length;
   private double width;
